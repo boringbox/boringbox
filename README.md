@@ -7,3 +7,6 @@
 I am currently working on the following projects: 
   - ASIC Sentry
   - Tetrilog 
+
+  ![hi](https://i.imgflip.com/8hrasg.png)
+
